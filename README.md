@@ -118,3 +118,5 @@ Sua contribuição me ajudará a manter e melhorar meus projetos, além de me in
     <img src="https://reporoster.com/forks/dark/NonkoKuronoma/Testes" alt="Forkers" title="Forkers" width="400" height="auto">
   </a>
 </div>
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NonkoKuronoma&repo=Testes&theme=custom&bg_color=0D1117&title_color=4493F8&text_color=9198A1&icon_color=9198A1&border_color=2E343D)](https://github.com/NonkoKuronoma/Testes)
