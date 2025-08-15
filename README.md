@@ -1,6 +1,3 @@
-
-
-
 <details>
   <summary>Mais detalhes</summary>
   <p>Este é um conteúdo extra que será exibido ao clicar.</p>
@@ -131,3 +128,17 @@ Sua contribuição me ajudará a manter e melhorar meus projetos, além de me in
 
 
 ![Visitors](https://komarev.com/ghpvc/?username=NonkoKuronoma&color=red)
+
+
+## Contributions
+![Alt](https://repobeats.axiom.co/api/embed/7df129d16f774a5475535dd20746a802a4f058c0.svg "Repobeats analytics image")
+
+## Stars to the Moon 🚀
+
+<a href="https://star-history.com/#hacksider/deep-live-cam&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=nonkokuronoma/Testes&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=nonkokuronoma/Tetes&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=nonkokuronoma/Testes&type=Date" />
+ </picture>
+</a>
