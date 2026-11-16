@@ -1,3 +1,4 @@
+[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/NonkoKuronoma)
 <details>
   <summary>Mais detalhes</summary>
   <p>Este é um conteúdo extra que será exibido ao clicar.</p>
